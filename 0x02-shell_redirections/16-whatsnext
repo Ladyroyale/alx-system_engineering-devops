@@ -1,2 +1,2 @@
  #!/bin/bash
-grep -Ai "root" /etc/passwd
+grep -Ai "root" /etc/passwd.
